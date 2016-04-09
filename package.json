@@ -1,0 +1,20 @@
+{
+  "name": "vans-module-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vans.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jiavan",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.11.2",
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "mocha": "^2.4.5"
+  }
+}
